@@ -41,21 +41,20 @@ Buscador_Temperatura/
 ```bash
 javac -cp "lib/*:src" -d out src/entidades/*.java src/servicios/*.java src/ui/*.java src/App.java
 
-▶️ Ejecutar:
-java -cp "lib/*:out" App
-
+### ▶️ Ejecutar:
+ java -cp "lib/*:out" App
 
 💡 En Windows usa ; en lugar de : en el classpath.
 
-📈 Funcionalidades principales
+### 📈 Funcionalidades principales
 
-Carga los datos del archivo Temperaturas.csv
+- Carga los datos del archivo Temperaturas.csv
 
-Permite seleccionar una ciudad o mostrar todas
+- Permite seleccionar una ciudad o mostrar todas
 
-El usuario puede elegir un rango de fechas
+- El usuario puede elegir un rango de fechas
 
-Genera una gráfica de barras con el promedio de temperatura por ciudad
+- Genera una gráfica de barras con el promedio de temperatura por ciudad
 
-Calcula la ciudad más calurosa y la menos calurosa para una fecha específica
+- Calcula la ciudad más calurosa y la menos calurosa para una fecha específica
 
