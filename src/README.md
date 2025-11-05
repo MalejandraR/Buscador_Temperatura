@@ -35,6 +35,8 @@ Buscador_Temperatura/
 ┃ ┗ App.java
 ┗ .gitignore
 
+---
+
 ## ⚙️ Instrucciones de ejecución
 
 ### 🔧 Compilar:
@@ -46,15 +48,11 @@ javac -cp "lib/*:src" -d out src/entidades/*.java src/servicios/*.java src/ui/*.
 
 💡 En Windows usa ; en lugar de : en el classpath.
 
-### 📈 Funcionalidades principales
+## ✨ Funcionalidades principales
 
-- Carga los datos del archivo Temperaturas.csv
-
-- Permite seleccionar una ciudad o mostrar todas
-
-- El usuario puede elegir un rango de fechas
-
-- Genera una gráfica de barras con el promedio de temperatura por ciudad
-
-- Calcula la ciudad más calurosa y la menos calurosa para una fecha específica
-
+- 📂 **Carga automática** de los datos desde el archivo `src/datos/Temperaturas.csv`.
+- 🏙️ **Selección de ciudad**: permite filtrar por una ciudad específica o mostrar todas.
+- 📅 **Rango de fechas**: el usuario puede elegir el intervalo de tiempo a analizar.
+- 📊 **Gráfica de barras**: muestra el **promedio de temperatura por ciudad** dentro del rango seleccionado.
+- 🌡️ **Análisis estadístico**: identifica la **ciudad más calurosa** y la **menos calurosa** para una fecha específica.
+- 🧮 **Procesamiento funcional**: los datos se manejan mediante **Streams**, **Lambdas** y **colecciones inmutables**.
