@@ -1,0 +1,311 @@
+﻿Ciudad;Fecha;Temperatura
+Bogotá;01/01/2024;14.2
+Medellín;01/01/2024;23.7
+Cali;01/01/2024;26.2
+Cartagena;01/01/2024;30.3
+Barranquilla;01/01/2024;29.5
+Bucaramanga;01/01/2024;25.5
+Pasto;01/01/2024;11.7
+Pereira;01/01/2024;22.2
+Manizales;01/01/2024;19.0
+Santa Marta;01/01/2024;30.8
+Bogotá;02/01/2024;14.0
+Medellín;02/01/2024;24.5
+Cali;02/01/2024;27.2
+Cartagena;02/01/2024;30.4
+Barranquilla;02/01/2024;30.2
+Bucaramanga;02/01/2024;26.7
+Pasto;02/01/2024;11.3
+Pereira;02/01/2024;22.5
+Manizales;02/01/2024;19.1
+Santa Marta;02/01/2024;29.7
+Bogotá;03/01/2024;15.3
+Medellín;03/01/2024;22.4
+Cali;03/01/2024;27.6
+Cartagena;03/01/2024;30.4
+Barranquilla;03/01/2024;30.5
+Bucaramanga;03/01/2024;25.2
+Pasto;03/01/2024;12.3
+Pereira;03/01/2024;21.5
+Manizales;03/01/2024;19.1
+Santa Marta;03/01/2024;30.0
+Bogotá;04/01/2024;14.0
+Medellín;04/01/2024;22.5
+Cali;04/01/2024;28.3
+Cartagena;04/01/2024;31.1
+Barranquilla;04/01/2024;29.9
+Bucaramanga;04/01/2024;25.8
+Pasto;04/01/2024;11.0
+Pereira;04/01/2024;21.8
+Manizales;04/01/2024;19.9
+Santa Marta;04/01/2024;30.5
+Bogotá;05/01/2024;15.3
+Medellín;05/01/2024;24.0
+Cali;05/01/2024;27.8
+Cartagena;05/01/2024;29.9
+Barranquilla;05/01/2024;30.0
+Bucaramanga;05/01/2024;25.9
+Pasto;05/01/2024;12.8
+Pereira;05/01/2024;22.6
+Manizales;05/01/2024;18.3
+Santa Marta;05/01/2024;30.1
+Bogotá;06/01/2024;15.5
+Medellín;06/01/2024;24.0
+Cali;06/01/2024;28.4
+Cartagena;06/01/2024;30.1
+Barranquilla;06/01/2024;30.0
+Bucaramanga;06/01/2024;26.0
+Pasto;06/01/2024;12.9
+Pereira;06/01/2024;22.8
+Manizales;06/01/2024;20.2
+Santa Marta;06/01/2024;31.3
+Bogotá;07/01/2024;16.5
+Medellín;07/01/2024;23.3
+Cali;07/01/2024;28.8
+Cartagena;07/01/2024;31.6
+Barranquilla;07/01/2024;31.8
+Bucaramanga;07/01/2024;25.4
+Pasto;07/01/2024;12.2
+Pereira;07/01/2024;23.3
+Manizales;07/01/2024;18.9
+Santa Marta;07/01/2024;31.1
+Bogotá;08/01/2024;16.8
+Medellín;08/01/2024;24.6
+Cali;08/01/2024;26.8
+Cartagena;08/01/2024;30.5
+Barranquilla;08/01/2024;29.9
+Bucaramanga;08/01/2024;26.8
+Pasto;08/01/2024;12.6
+Pereira;08/01/2024;21.9
+Manizales;08/01/2024;20.3
+Santa Marta;08/01/2024;31.1
+Bogotá;09/01/2024;14.6
+Medellín;09/01/2024;23.5
+Cali;09/01/2024;30.6
+Cartagena;09/01/2024;31.8
+Barranquilla;09/01/2024;31.3
+Bucaramanga;09/01/2024;25.4
+Pasto;09/01/2024;12.0
+Pereira;09/01/2024;22.8
+Manizales;09/01/2024;19.4
+Santa Marta;09/01/2024;32.7
+Bogotá;10/01/2024;15.1
+Medellín;10/01/2024;25.4
+Cali;10/01/2024;28.3
+Cartagena;10/01/2024;31.7
+Barranquilla;10/01/2024;31.1
+Bucaramanga;10/01/2024;24.3
+Pasto;10/01/2024;13.8
+Pereira;10/01/2024;22.9
+Manizales;10/01/2024;19.2
+Santa Marta;10/01/2024;32.0
+Bogotá;11/01/2024;14.9
+Medellín;11/01/2024;24.2
+Cali;11/01/2024;28.8
+Cartagena;11/01/2024;29.4
+Barranquilla;11/01/2024;30.0
+Bucaramanga;11/01/2024;25.1
+Pasto;11/01/2024;13.5
+Pereira;11/01/2024;22.9
+Manizales;11/01/2024;20.4
+Santa Marta;11/01/2024;30.8
+Bogotá;12/01/2024;15.7
+Medellín;12/01/2024;24.1
+Cali;12/01/2024;28.3
+Cartagena;12/01/2024;30.9
+Barranquilla;12/01/2024;30.5
+Bucaramanga;12/01/2024;27.5
+Pasto;12/01/2024;11.9
+Pereira;12/01/2024;21.9
+Manizales;12/01/2024;20.0
+Santa Marta;12/01/2024;30.5
+Bogotá;13/01/2024;13.1
+Medellín;13/01/2024;23.2
+Cali;13/01/2024;30.0
+Cartagena;13/01/2024;30.2
+Barranquilla;13/01/2024;28.8
+Bucaramanga;13/01/2024;26.8
+Pasto;13/01/2024;11.6
+Pereira;13/01/2024;24.8
+Manizales;13/01/2024;19.3
+Santa Marta;13/01/2024;32.1
+Bogotá;14/01/2024;14.6
+Medellín;14/01/2024;23.8
+Cali;14/01/2024;27.7
+Cartagena;14/01/2024;30.1
+Barranquilla;14/01/2024;30.0
+Bucaramanga;14/01/2024;25.6
+Pasto;14/01/2024;12.1
+Pereira;14/01/2024;22.8
+Manizales;14/01/2024;18.7
+Santa Marta;14/01/2024;30.4
+Bogotá;15/01/2024;15.6
+Medellín;15/01/2024;22.7
+Cali;15/01/2024;27.8
+Cartagena;15/01/2024;31.0
+Barranquilla;15/01/2024;30.0
+Bucaramanga;15/01/2024;25.8
+Pasto;15/01/2024;11.2
+Pereira;15/01/2024;22.7
+Manizales;15/01/2024;18.9
+Santa Marta;15/01/2024;30.2
+Bogotá;16/01/2024;15.3
+Medellín;16/01/2024;23.0
+Cali;16/01/2024;27.6
+Cartagena;16/01/2024;28.7
+Barranquilla;16/01/2024;30.9
+Bucaramanga;16/01/2024;25.2
+Pasto;16/01/2024;11.7
+Pereira;16/01/2024;22.1
+Manizales;16/01/2024;19.6
+Santa Marta;16/01/2024;31.1
+Bogotá;17/01/2024;15.4
+Medellín;17/01/2024;23.6
+Cali;17/01/2024;27.3
+Cartagena;17/01/2024;30.5
+Barranquilla;17/01/2024;30.2
+Bucaramanga;17/01/2024;24.5
+Pasto;17/01/2024;12.1
+Pereira;17/01/2024;22.7
+Manizales;17/01/2024;19.1
+Santa Marta;17/01/2024;29.5
+Bogotá;18/01/2024;14.3
+Medellín;18/01/2024;21.7
+Cali;18/01/2024;25.9
+Cartagena;18/01/2024;29.9
+Barranquilla;18/01/2024;29.6
+Bucaramanga;18/01/2024;24.5
+Pasto;18/01/2024;11.5
+Pereira;18/01/2024;20.2
+Manizales;18/01/2024;18.9
+Santa Marta;18/01/2024;30.9
+Bogotá;19/01/2024;14.3
+Medellín;19/01/2024;23.0
+Cali;19/01/2024;27.3
+Cartagena;19/01/2024;29.6
+Barranquilla;19/01/2024;28.6
+Bucaramanga;19/01/2024;24.5
+Pasto;19/01/2024;10.0
+Pereira;19/01/2024;22.6
+Manizales;19/01/2024;17.9
+Santa Marta;19/01/2024;30.0
+Bogotá;20/01/2024;14.4
+Medellín;20/01/2024;22.7
+Cali;20/01/2024;28.7
+Cartagena;20/01/2024;27.7
+Barranquilla;20/01/2024;28.1
+Bucaramanga;20/01/2024;25.0
+Pasto;20/01/2024;9.7
+Pereira;20/01/2024;20.5
+Manizales;20/01/2024;18.8
+Santa Marta;20/01/2024;28.4
+Bogotá;21/01/2024;13.0
+Medellín;21/01/2024;22.2
+Cali;21/01/2024;26.4
+Cartagena;21/01/2024;29.0
+Barranquilla;21/01/2024;27.8
+Bucaramanga;21/01/2024;23.5
+Pasto;21/01/2024;10.3
+Pereira;21/01/2024;20.5
+Manizales;21/01/2024;18.8
+Santa Marta;21/01/2024;27.9
+Bogotá;22/01/2024;10.8
+Medellín;22/01/2024;22.8
+Cali;22/01/2024;26.7
+Cartagena;22/01/2024;29.7
+Barranquilla;22/01/2024;27.6
+Bucaramanga;22/01/2024;23.5
+Pasto;22/01/2024;10.7
+Pereira;22/01/2024;20.6
+Manizales;22/01/2024;17.1
+Santa Marta;22/01/2024;29.9
+Bogotá;23/01/2024;11.5
+Medellín;23/01/2024;20.7
+Cali;23/01/2024;26.4
+Cartagena;23/01/2024;29.3
+Barranquilla;23/01/2024;28.2
+Bucaramanga;23/01/2024;23.0
+Pasto;23/01/2024;10.2
+Pereira;23/01/2024;21.4
+Manizales;23/01/2024;17.6
+Santa Marta;23/01/2024;29.8
+Bogotá;24/01/2024;13.5
+Medellín;24/01/2024;21.6
+Cali;24/01/2024;27.6
+Cartagena;24/01/2024;28.7
+Barranquilla;24/01/2024;29.1
+Bucaramanga;24/01/2024;23.6
+Pasto;24/01/2024;10.5
+Pereira;24/01/2024;19.6
+Manizales;24/01/2024;16.6
+Santa Marta;24/01/2024;28.6
+Bogotá;25/01/2024;13.7
+Medellín;25/01/2024;22.2
+Cali;25/01/2024;26.2
+Cartagena;25/01/2024;29.5
+Barranquilla;25/01/2024;29.1
+Bucaramanga;25/01/2024;23.2
+Pasto;25/01/2024;10.6
+Pereira;25/01/2024;21.1
+Manizales;25/01/2024;17.8
+Santa Marta;25/01/2024;28.1
+Bogotá;26/01/2024;12.2
+Medellín;26/01/2024;22.1
+Cali;26/01/2024;27.0
+Cartagena;26/01/2024;28.5
+Barranquilla;26/01/2024;28.0
+Bucaramanga;26/01/2024;21.6
+Pasto;26/01/2024;9.0
+Pereira;26/01/2024;21.8
+Manizales;26/01/2024;17.1
+Santa Marta;26/01/2024;26.8
+Bogotá;27/01/2024;15.1
+Medellín;27/01/2024;21.6
+Cali;27/01/2024;25.2
+Cartagena;27/01/2024;28.8
+Barranquilla;27/01/2024;29.1
+Bucaramanga;27/01/2024;23.8
+Pasto;27/01/2024;11.5
+Pereira;27/01/2024;20.4
+Manizales;27/01/2024;18.8
+Santa Marta;27/01/2024;30.0
+Bogotá;28/01/2024;14.4
+Medellín;28/01/2024;22.3
+Cali;28/01/2024;26.1
+Cartagena;28/01/2024;28.5
+Barranquilla;28/01/2024;27.3
+Bucaramanga;28/01/2024;23.3
+Pasto;28/01/2024;8.5
+Pereira;28/01/2024;20.0
+Manizales;28/01/2024;18.4
+Santa Marta;28/01/2024;29.1
+Bogotá;29/01/2024;13.4
+Medellín;29/01/2024;22.8
+Cali;29/01/2024;27.1
+Cartagena;29/01/2024;29.8
+Barranquilla;29/01/2024;29.0
+Bucaramanga;29/01/2024;23.4
+Pasto;29/01/2024;9.8
+Pereira;29/01/2024;20.7
+Manizales;29/01/2024;18.5
+Santa Marta;29/01/2024;29.2
+Bogotá;30/01/2024;14.1
+Medellín;30/01/2024;22.7
+Cali;30/01/2024;27.4
+Cartagena;30/01/2024;28.1
+Barranquilla;30/01/2024;29.4
+Bucaramanga;30/01/2024;24.5
+Pasto;30/01/2024;12.1
+Pereira;30/01/2024;21.6
+Manizales;30/01/2024;16.9
+Santa Marta;30/01/2024;29.5
+Bogotá;31/01/2024;14.5
+Medellín;31/01/2024;21.8
+Cali;31/01/2024;27.7
+Cartagena;31/01/2024;28.7
+Barranquilla;31/01/2024;30.9
+Bucaramanga;31/01/2024;23.7
+Pasto;31/01/2024;10.4
+Pereira;31/01/2024;21.6
+Manizales;31/01/2024;19.2
+Santa Marta;31/01/2024;30.3
