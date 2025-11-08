@@ -34,8 +34,9 @@ public class TemperaturaServicio {
     }
 
     private static Optional<RegistroTemperatura> parsear(String line) {
-        String[] p = line.split("[;,]", -1);  // admite ; o ,
-        if (p.length < 3) return Optional.empty();
+        String[] p = line.split("[;,]", -1); // admite ; o ,
+        if (p.length < 3)
+            return Optional.empty();
         try {
             String ciudad = p[0].trim();
             LocalDate fecha = LocalDate.parse(p[1].trim(), DTF);
@@ -54,8 +55,7 @@ public class TemperaturaServicio {
         }
         return base.collect(Collectors.groupingBy(
                 RegistroTemperatura::ciudad,
-                Collectors.averagingDouble(RegistroTemperatura::temperatura)
-        ));
+                Collectors.averagingDouble(RegistroTemperatura::temperatura)));
 
     }
 
@@ -65,7 +65,8 @@ public class TemperaturaServicio {
                 .filter(r -> ciudad == null || "Todas".equalsIgnoreCase(ciudad) || r.ciudad().equalsIgnoreCase(ciudad))
                 .collect(Collectors.toList());
 
-        if (delDia.isEmpty()) return Optional.empty();
+        if (delDia.isEmpty())
+            return Optional.empty();
 
         RegistroTemperatura max = delDia.stream()
                 .max(Comparator.comparingDouble(RegistroTemperatura::temperatura)).get();
@@ -76,14 +77,16 @@ public class TemperaturaServicio {
     }
 
     public List<String> ciudades() {
-        List<String> cs = registros.stream()
+        Stream<String> ciudadesStream = registros.stream()
                 .map(RegistroTemperatura::ciudad)
                 .distinct()
-                .sorted()
-                .collect(Collectors.toList());
-        cs.add(0, "Todas");
-        return cs;
+                .sorted();
+
+        return Stream.concat(
+                Stream.of("Todas"),
+                ciudadesStream).collect(Collectors.toList());
     }
 
-    public record HotCold(String ciudadMax, double tempMax, String ciudadMin, double tempMin) {}
+    public record HotCold(String ciudadMax, double tempMax, String ciudadMin, double tempMin) {
+    }
 }
